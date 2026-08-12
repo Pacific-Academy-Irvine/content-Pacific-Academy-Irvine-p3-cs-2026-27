@@ -1,9 +1,7 @@
 {
   "repositories": {},
   "general": {
-    "pages": [
-      "test"
-    ],
+    "pages": [],
     "slides": []
   }
 }
