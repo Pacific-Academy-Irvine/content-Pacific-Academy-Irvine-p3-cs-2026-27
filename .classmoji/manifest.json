@@ -1,5 +1,11 @@
 {
-  "repositories": {},
+  "repositories": {
+    "git-practice": {
+      "pages": [],
+      "slides": [],
+      "assignments": {}
+    }
+  },
   "general": {
     "pages": [],
     "slides": []
